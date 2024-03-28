@@ -118,7 +118,7 @@ const educationInfo = {
     {
       schoolName: "University of Arizona",
       logo: require("./assets/images/uofa.png"),
-      subHeader: "Bachelor of Science in Information Science",
+      subHeader: "Bachelor of Science Major in Information Science, Minor in Computer Science",
       duration: "September 2018 - April 2022",
       desc: "Relevant Coursework: Web Programming, Applied Data Science, Could Computing, Computer Algorithms,Information Visualization, Machine Learning",
     }
@@ -176,13 +176,13 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "/public/secondhand.html"
+          url: "https://xiaohanfei.github.io/showcase.github.io/secondhand.html"
           
         },
         //  you can add extra buttons here.
         {
           name: "github link",
-          url: "http://saayahealth.com/"
+          url: "https://github.com/XiaohanFei/Second-Hand-Capstone-Application.git"
           
         }
       ]
@@ -194,11 +194,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: ""
+          url: "https://xiaohanfei.github.io/showcase.github.io/"
         },
         {
           name: "github link",
-          url: "http://saayahealth.com/"
+          url: "https://github.com/XiaohanFei/Yelp-like-application.git/"
           
         }
       ]
