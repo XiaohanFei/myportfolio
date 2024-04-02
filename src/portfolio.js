@@ -22,8 +22,7 @@ const illustration = {
 const greeting = {
   username: "Xiaohan Fei",
   title: "Hi all, I'm Fei",
-  subTitle: emoji(
-"Passionate student on a quest to transform ideas into reality with JavaScript, React, Node.js, React Native, ready to tackle challenges in a vibrant Software Developer role!"
+  subTitle: emoji("Hello everyone, I'm Fei 👋! As a passionate student, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ear9mi9NdQW2eCmR-cLrXwBRNiSZjvkU/view?usp=drive_link", // Set to empty to hide the button
@@ -45,7 +44,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -109,7 +108,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Universitt of Wisconsin - Madison",
+      schoolName: "University of Wisconsin - Madison",
       logo: require("./assets/images/uwm.png"),
       subHeader: "Master of Science in Information Science",
       duration: "September 2023 - Present",
@@ -120,7 +119,7 @@ const educationInfo = {
       logo: require("./assets/images/uofa.png"),
       subHeader: "Bachelor of Science Major in Information Science, Minor in Computer Science",
       duration: "September 2018 - April 2022",
-      desc: "Relevant Coursework: Web Programming, Applied Data Science, Could Computing, Computer Algorithms,Information Visualization, Machine Learning",
+      desc: "Relevant Coursework: Web Programming, Applied Data Science, Could Computing, Computer Algorithms,Data Visualization, Machine Learning",
     }
   ]
 };
