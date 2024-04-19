@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.af70cf94.css",
-    "main.js": "/myportfolio/static/js/main.401dd4c5.js",
+    "main.css": "/myportfolio/static/css/main.1ced3856.css",
+    "main.js": "/myportfolio/static/js/main.91bde862.js",
     "static/css/487.bb36206c.chunk.css": "/myportfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/myportfolio/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/myportfolio/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.567a0b93.chunk.js": "/myportfolio/static/js/990.567a0b93.chunk.js",
+    "static/js/990.6a8db7e7.chunk.js": "/myportfolio/static/js/990.6a8db7e7.chunk.js",
     "static/media/yelplike.png": "/myportfolio/static/media/yelplike.cc64c6f74daa74731e68.png",
     "static/media/Montserrat-Regular.ttf": "/myportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/secondhand.png": "/myportfolio/static/media/secondhand.a069962349f3fa8d0c81.png",
@@ -17,15 +17,15 @@
     "static/media/skill.svg": "/myportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/myportfolio/index.html",
     "static/media/talksCardBack.svg": "/myportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.af70cf94.css.map": "/myportfolio/static/css/main.af70cf94.css.map",
-    "main.401dd4c5.js.map": "/myportfolio/static/js/main.401dd4c5.js.map",
+    "main.1ced3856.css.map": "/myportfolio/static/css/main.1ced3856.css.map",
+    "main.91bde862.js.map": "/myportfolio/static/js/main.91bde862.js.map",
     "487.bb36206c.chunk.css.map": "/myportfolio/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/myportfolio/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/myportfolio/static/css/990.c6a7ee28.chunk.css.map",
-    "990.567a0b93.chunk.js.map": "/myportfolio/static/js/990.567a0b93.chunk.js.map"
+    "990.6a8db7e7.chunk.js.map": "/myportfolio/static/js/990.6a8db7e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af70cf94.css",
-    "static/js/main.401dd4c5.js"
+    "static/css/main.1ced3856.css",
+    "static/js/main.91bde862.js"
   ]
 }
