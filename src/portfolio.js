@@ -22,7 +22,8 @@ const illustration = {
 const greeting = {
   username: "Xiaohan Fei",
   title: "Hi all , I'm Fei",
-  subTitle: "Hello everyone, I'm Fei 👋! As a passionate Full-Stack Developer, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!",
+  subTitle:
+    "Hello everyone, I'm Fei 👋! As a passionate Full-Stack Developer, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!",
   resumeLink:
     "https://drive.google.com/file/d/1q7yFY3LUr0MjMm18YAHOooHdUTRCl9D2/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -111,14 +112,15 @@ const educationInfo = {
       logo: require("./assets/images/uwm.png"),
       subHeader: "Master of Science in Information Science",
       duration: "September 2023 - Present",
-      desc: "Relevant Coursework: Information Systems Analysis, Managing Information Systems Projects, Applied Data Science,Information Visualization, Data Mining, Data Administration Concepts & Database Management",
+      desc: "Relevant Coursework: Information Systems Analysis, Managing Information Systems Projects, Applied Data Science,Information Visualization, Data Mining, Data Administration Concepts & Database Management"
     },
     {
       schoolName: "University of Arizona",
       logo: require("./assets/images/uofa.png"),
-      subHeader: "Bachelor of Science Major in Information Science, Minor in Computer Science",
+      subHeader:
+        "Bachelor of Science Major in Information Science, Minor in Computer Science",
       duration: "September 2018 - April 2022",
-      desc: "Relevant Coursework: Web Programming, Applied Data Science, Could Computing, Computer Algorithms,Data Visualization, Machine Learning",
+      desc: "Relevant Coursework: Web Programming, Applied Data Science, Could Computing, Computer Algorithms,Data Visualization, Machine Learning"
     }
   ]
 };
@@ -170,25 +172,25 @@ const bigProjects = {
     {
       image: require("./assets/images/secondhand.png"),
       projectName: "Campus Second Hand Website Capstone Project ",
-      projectDesc: "This project is a comprehensive web application featuring a Vue.js-based dynamic and responsive frontend, PHP-powered scalable backend with sophisticated business logic, and a well-structured MySQL database, all fortified with advanced security measures to ensure data security and user privacy.",
+      projectDesc:
+        "This project is a comprehensive web application featuring a Vue.js-based dynamic and responsive frontend, PHP-powered scalable backend with sophisticated business logic, and a well-structured MySQL database, all fortified with advanced security measures to ensure data security and user privacy.",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://xiaohanfei.github.io/showcase.github.io/secondhand.html"
-          
         },
         //  you can add extra buttons here.
         {
           name: "github link",
           url: "https://github.com/XiaohanFei/Second-Hand-Capstone-Application.git"
-          
         }
       ]
     },
     {
       image: require("./assets/images/yelplike.png"),
       projectName: "Yelp-Like Application",
-      projectDesc: "This project leverages the React framework for a responsive frontend, Node.js and Express.js for an efficient and secure backend, and utilizes PostgreSQL on Heroku for a scalable database, enabling smooth user interactions with features for posting, locating, and reviewing restaurants.",
+      projectDesc:
+        "This project leverages the React framework for a responsive frontend, Node.js and Express.js for an efficient and secure backend, and utilizes PostgreSQL on Heroku for a scalable database, enabling smooth user interactions with features for posting, locating, and reviewing restaurants.",
       footerLink: [
         {
           name: "Visit Website",
@@ -197,7 +199,6 @@ const bigProjects = {
         {
           name: "github link",
           url: "https://github.com/XiaohanFei/Yelp-like-application.git/"
-          
         }
       ]
     }
@@ -210,31 +211,25 @@ const bigProjects = {
 
 // Blogs Section
 
-const blogSection = {
-};
+const blogSection = {};
 
 // Talks Sections
 
-const talkSection = {
-};
+const talkSection = {};
 
 // Podcast Section
 
-const podcastSection = {
-};
+const podcastSection = {};
 
-const contactInfo = {
-};
+const contactInfo = {};
 
 // Twitter Section
 
-const twitterDetails = {
-};
-
+const twitterDetails = {};
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
-const openSource={}
-const achievementSection={}
+const openSource = {};
+const achievementSection = {};
 export {
   illustration,
   greeting,
