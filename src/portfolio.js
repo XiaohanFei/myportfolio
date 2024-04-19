@@ -3,7 +3,7 @@
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
-import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import splashAnimation from "./assets/lottie/coding.json"; // Rename to your file name for custom animation
 
 // Splash Screen
 
@@ -22,10 +22,9 @@ const illustration = {
 const greeting = {
   username: "Xiaohan Fei",
   title: "Hi all, I'm Fei",
-  subTitle: emoji("Hello everyone, I'm Fei 👋! As a passionate student, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!"
-  ),
+  subTitle: "Hello everyone, I'm Fei 👋! As a passionate Full-Stack Developer, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!",
   resumeLink:
-    "https://drive.google.com/file/d/1ear9mi9NdQW2eCmR-cLrXwBRNiSZjvkU/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1q7yFY3LUr0MjMm18YAHOooHdUTRCl9D2/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -138,8 +137,8 @@ const techStack = {
       progressPercentage: "80%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "70%"
+      Stack: "Documentation",
+      progressPercentage: "85%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -155,7 +154,7 @@ const workExperiences = {
       company: "Yinshuo Software Technology Co.",
       companylogo: require("./assets/images/usb.png"),
       date: "April 2022 - July 2022",
-      desc: "Designed and developed a custom software solution enabling seamless integration of the Online Banking USB Shieldwith the Chrome browser, enhancing user accessibility and security."
+      desc: "Developed a hardware-based security solution, the Bank Security key, designed to enhance user accessibility and security through seamless integration with the Chrome browser. This initiative involved extensive research of open-source documentation to devise innovative implementation strategies. I spearheaded the development process, authored comprehensive documentation, significantly boosting their digital security infrastructure."
     }
   ]
 };
