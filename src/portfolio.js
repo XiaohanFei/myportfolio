@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Xiaohan Fei",
-  title: "Hi all, I'm Fei",
+  title: "Hi all , I'm Fei",
   subTitle: "Hello everyone, I'm Fei 👋! As a passionate Full-Stack Developer, I'm on a quest to bring ideas to life through the power of technology. With a strong foundation in JavaScript, React, Node.js, and React Native, I'm eager to face new challenges and make a mark in the role of a vibrant Software Developer!",
   resumeLink:
     "https://drive.google.com/file/d/1q7yFY3LUr0MjMm18YAHOooHdUTRCl9D2/view?usp=drive_link", // Set to empty to hide the button
